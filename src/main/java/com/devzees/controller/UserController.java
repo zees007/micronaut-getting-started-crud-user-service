@@ -3,6 +3,7 @@ package com.devzees.controller;
 import com.devzees.model.User;
 import com.devzees.service.UserService;
 import io.micronaut.http.HttpResponse;
+import io.micronaut.http.HttpStatus;
 import io.micronaut.http.MediaType;
 import io.micronaut.http.annotation.*;
 
@@ -42,13 +43,21 @@ public class UserController {
         return HttpResponse.ok(userService.findById(id));
     }
 
+    @Post("/update")
+    public HttpResponse<User> updateUser(@Body User user) {
+        User updatedUser = userService.updateUser(user);
+        if (updatedUser != null) {
+            return HttpResponse.ok(updatedUser);
+        } else {
+            return HttpResponse.status(HttpStatus.NOT_FOUND, "User not found");
+        }
+    }
 
-//
-//    @Put("/{id}")
-//    public User updateUser(@PathVariable Long id, @Body User user) {
-//        user.setId(id);
-//        return userService.save(user);
-//    }
+    @Put("/update/email/{id}")
+    public HttpResponse<User> updateUserEmail(@PathVariable Long id, @Body String email) {
+        User updatedUser = userService.updateUserEmail(id, email);
+        return HttpResponse.ok(updatedUser);
+    }
 
     @Delete("/{id}")
     public void deleteUser(@PathVariable Long id) {

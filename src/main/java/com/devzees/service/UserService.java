@@ -16,5 +16,9 @@ public interface UserService {
     User createUser(User user);
     List<User> findAll();
     User findById(Long id);
+
+    User updateUser(User user);
+
+    User updateUserEmail(Long userId, String email);
     void deleteById(Long id);
 }
