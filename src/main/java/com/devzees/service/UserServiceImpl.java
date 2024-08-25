@@ -15,7 +15,7 @@ import java.util.Objects;
  */
 
 @Singleton
-public class UserServiceImpl implements UserService{
+public class UserServiceImpl implements UserService {
 
     public UserRepository userRepository;
     public UserServiceImpl(UserRepository userRepository) {

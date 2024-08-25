@@ -39,7 +39,7 @@ public class UserController {
     }
 
     @Get("/{id}")
-    public HttpResponse<User> getAllUsers(@PathVariable Long id) {
+    public HttpResponse<User> getUserById(@PathVariable Long id) {
         return HttpResponse.ok(userService.findById(id));
     }
 
