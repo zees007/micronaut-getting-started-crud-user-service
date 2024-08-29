@@ -7,20 +7,39 @@
 ✅ 𝐊𝐞𝐲 𝐓𝐚𝐤𝐞𝐚𝐰𝐚𝐲𝐬 𝐚𝐬 𝐛𝐞𝐥𝐨𝐰 𝐟𝐫𝐨𝐦 𝐭𝐡𝐢𝐬 𝐭𝐮𝐭𝐨𝐫𝐢𝐚𝐥:
 
 👉 𝑾𝒉𝒂𝒕 𝒊𝒔 𝑴𝒊𝒄𝒓𝒐𝒏𝒂𝒖𝒕 ?
-👉 𝑴𝒊𝒄𝒓𝒐𝒏𝒂𝒖𝒕 𝑺𝒆𝒕-𝒖𝒑
-   ✔️𝑴𝒆𝒕𝒉𝒐𝒅 1: 𝑼𝒔𝒊𝒏𝒈 𝑴𝒊𝒄𝒓𝒐𝒏𝒂𝒖𝒕 𝑪𝑳𝑰
-   ✔️ 𝑴𝒆𝒕𝒉𝒐𝒅 2: 𝑼𝒔𝒊𝒏𝒈 𝑴𝒊𝒄𝒓𝒐𝒏𝒂𝒖𝒕 𝑳𝒂𝒖𝒏𝒄𝒉 (𝑾𝒆𝒃-𝒃𝒂𝒔𝒆𝒅 𝑻𝒐𝒐𝒍)
-👉 𝑬𝒏𝒂𝒃𝒍𝒆 𝑨𝒏𝒏𝒐𝒕𝒂𝒕𝒊𝒐𝒏 𝑷𝒓𝒐𝒄𝒆𝒔𝒔𝒊𝒏𝒈
-👉 𝑾𝒉𝒂𝒕 𝒅𝒆𝒑𝒆𝒏𝒅𝒆𝒏𝒄𝒊𝒆𝒔 𝒂𝒓𝒆 𝒏𝒆𝒆𝒅𝒆𝒅 𝒕𝒐 𝒊𝒏𝒕𝒆𝒈𝒓𝒂𝒕𝒆 𝑯𝒊𝒃𝒆𝒓𝒏𝒂𝒕𝒆 𝒂𝒏𝒅 𝑱𝑷𝑨, 𝒂𝒏𝒅 𝒘𝒉𝒂𝒕 𝒂𝒓𝒆 𝒕𝒉𝒆 𝒄𝒐𝒓𝒆 𝒅𝒆𝒑𝒆𝒏𝒅𝒆𝒏𝒄𝒊𝒆𝒔 𝒓𝒆𝒒𝒖𝒊𝒓𝒆𝒅 𝒕𝒐 𝒔𝒆𝒕 𝒖𝒑 𝒂 𝑴𝒊𝒄𝒓𝒐𝒏𝒂𝒖𝒕 𝒑𝒓𝒐𝒋𝒆𝒄𝒕?
-👉 𝑨𝒑𝒑𝒍𝒊𝒄𝒂𝒕𝒊𝒐𝒏 𝒑𝒓𝒐𝒑𝒆𝒓𝒕𝒚 𝒄𝒐𝒏𝒇𝒊𝒈𝒖𝒓𝒂𝒕𝒊𝒐𝒏𝒔
-👉 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒅 𝒂 𝑼𝒔𝒆𝒓 𝒔𝒆𝒓𝒗𝒊𝒄𝒆 𝒘𝒊𝒕𝒉 𝑪𝑹𝑼𝑫 𝒐𝒑𝒆𝒓𝒂𝒕𝒊𝒐𝒏𝒔 𝒊𝒏 𝒂 𝒃𝒂𝒔𝒊𝒄 𝑴𝒊𝒄𝒓𝒐𝒏𝒂𝒖𝒕 𝒑𝒓𝒐𝒋𝒆𝒄𝒕.
-👉 𝑮𝒊𝒕𝑯𝒖𝒃 𝑺𝒐𝒖𝒓𝒄𝒆 𝑪𝒐𝒅𝒆
 
-𝐅𝐨𝐥𝐥𝐨𝐰 my blog for 𝐬𝐭𝐞𝐩 𝐛𝐲 𝐬𝐭𝐞𝐩 𝐠𝐮𝐢𝐝𝐞 👇
+👉 𝑴𝒊𝒄𝒓𝒐𝒏𝒂𝒖𝒕 𝑺𝒆𝒕-𝒖𝒑
+
+   ✔️𝑴𝒆𝒕𝒉𝒐𝒅 1: 𝑼𝒔𝒊𝒏𝒈 𝑴𝒊𝒄𝒓𝒐𝒏𝒂𝒖𝒕 𝑪𝑳𝑰
+   
+   ✔️ 𝑴𝒆𝒕𝒉𝒐𝒅 2: 𝑼𝒔𝒊𝒏𝒈 𝑴𝒊𝒄𝒓𝒐𝒏𝒂𝒖𝒕 𝑳𝒂𝒖𝒏𝒄𝒉 (𝑾𝒆𝒃-𝒃𝒂𝒔𝒆𝒅 𝑻𝒐𝒐𝒍)
+   
+👉 𝑬𝒏𝒂𝒃𝒍𝒆 𝑨𝒏𝒏𝒐𝒕𝒂𝒕𝒊𝒐𝒏 𝑷𝒓𝒐𝒄𝒆𝒔𝒔𝒊𝒏𝒈
+
+👉 𝑾𝒉𝒂𝒕 𝒅𝒆𝒑𝒆𝒏𝒅𝒆𝒏𝒄𝒊𝒆𝒔 𝒂𝒓𝒆 𝒏𝒆𝒆𝒅𝒆𝒅 𝒕𝒐 𝒊𝒏𝒕𝒆𝒈𝒓𝒂𝒕𝒆 𝑯𝒊𝒃𝒆𝒓𝒏𝒂𝒕𝒆 𝒂𝒏𝒅 𝑱𝑷𝑨, 𝒂𝒏𝒅 𝒘𝒉𝒂𝒕 𝒂𝒓𝒆 𝒕𝒉𝒆 𝒄𝒐𝒓𝒆 𝒅𝒆𝒑𝒆𝒏𝒅𝒆𝒏𝒄𝒊𝒆𝒔 𝒓𝒆𝒒𝒖𝒊𝒓𝒆𝒅 𝒕𝒐 𝒔𝒆𝒕 𝒖𝒑 𝒂 𝑴𝒊𝒄𝒓𝒐𝒏𝒂𝒖𝒕 𝒑𝒓𝒐𝒋𝒆𝒄𝒕?
+
+👉 𝑨𝒑𝒑𝒍𝒊𝒄𝒂𝒕𝒊𝒐𝒏 𝒑𝒓𝒐𝒑𝒆𝒓𝒕𝒚 𝒄𝒐𝒏𝒇𝒊𝒈𝒖𝒓𝒂𝒕𝒊𝒐𝒏𝒔
+
+👉 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒅 𝒂 𝑼𝒔𝒆𝒓 𝒔𝒆𝒓𝒗𝒊𝒄𝒆 𝒘𝒊𝒕𝒉 𝑪𝑹𝑼𝑫 𝒐𝒑𝒆𝒓𝒂𝒕𝒊𝒐𝒏𝒔 𝒊𝒏 𝒂 𝒃𝒂𝒔𝒊𝒄 𝑴𝒊𝒄𝒓𝒐𝒏𝒂𝒖𝒕 𝒑𝒓𝒐𝒋𝒆𝒄𝒕.
+
+𝐅𝐨𝐥𝐥𝐨𝐰 my blog for 𝐬𝐭𝐞𝐩 𝐛𝐲 𝐬𝐭𝐞𝐩 code explanation 👇
 
 https://medium.com/gitconnected/getting-started-with-micronaut-access-a-database-with-jpa-and-hibernate-5f93544d12fd
 
-
+## Contact me
+<div align="center">
+  <a href="https://www.linkedin.com/in/zeeshan-adil-a94b3867/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="35" alt="linkedin logo"  />
+  </a>
+  <img width="20" />
+  <a href="https://medium.com/@mhmdzeeshan" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=medium&logo=medium&label=&color=black&logoColor=white&labelColor=&style=flat" height="35" alt="medium logo"  />
+  </a>
+  <img width="20" />
+  <a href="https://facebook.com/groups/321306497491174/?ref=share_group_link" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=flat" height="35" alt="stackoverflow logo"  />
+  </a>
+</div>
 
 
 ## Micronaut 4.6.0 Documentation
